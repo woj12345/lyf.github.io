@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://woj12345.github.io</id>
     <title>Wuhu Airlines</title>
-    <updated>2020-07-24T08:56:39.083Z</updated>
+    <updated>2020-07-24T09:00:35.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://woj12345.github.io"/>
     <link rel="self" href="https://woj12345.github.io/atom.xml"/>
@@ -17,11 +17,13 @@
         </link>
         <updated>2020-07-23T15:45:42.000Z</updated>
         <content type="html"><![CDATA[<pre><code>  根据我的见闻，国内动辄谈思想史的多，谈及观念史的少。此外，谈思想观念，似乎又不可不谈哲学史。首先要分清这三者之间的区别。
+
   三者中最先生发的应当是哲学史，冯友兰写《中国哲学史》时专门讲哲学史作法：“哲学本一西洋名词”，今欲讲中国哲学史，其主要工作之一，即就中国历史上各种学问中，将其可以西洋所谓哲学名之者，选出而叙述之”。
+
   但“思想”不同于“哲学”，philosophy是西方的东西，但有关intellectual的东西是中国自古就有的。所以葛兆光在写《中国思想史》的时候，是将中国的历史和思想结合起来讲的，思想的演变是从历史的演变历程中罗织而出的。这不禁让人立马联想到了马克·布洛赫在《历史学家的技艺》中提到的“历史学家的想象力”，换言之，即是归纳法（induction）的思考模式。这样的想象力也是思想史家应当具备的。要问思想史距离哲学更近，还是离历史学更近，我觉得恐怕是离历史学要来得近些。
+
   至于观念史，无疑是较为年轻的一门学科。秦晖讲：“观念史研究思想史中某一概念的演化，是思想史的附庸”。（The history of ideas is a field of research in history that deals with the expression, preservation, and change of human ideas over time. The history of ideas is a sister-discipline to, or a particular approach within, intellectual history.）。金观涛、刘青峰依托数据库写就的《观念史研究——中国现代重要政治术语的形成》无疑是该领域的代表作。数据库技术的成熟，让学者能够直观地观察特定时期文本当中的语用流变，进而去分析人们观念的变化。换言之，观念史不失为一门微观的思想史。
 </code></pre>
-<p>2020.7.24</p>
 ]]></content>
     </entry>
 </feed>
