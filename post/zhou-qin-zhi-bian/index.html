@@ -8,9 +8,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://woj12345.github.io/favicon.ico?v=1595674529421">
+<link rel="shortcut icon" href="https://woj12345.github.io/favicon.ico?v=1595674780737">
 <link rel="stylesheet" href="https://woj12345.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
@@ -25,7 +31,7 @@
 百代都行秦政法，十批不是好文章。
 熟读唐人《封建论》，莫从子厚返文王。
 毛泽东对周秦之变有着著名的论断：“百代都行秦政法“..." />
-    <meta name="keywords" content="" />
+    <meta name="keywords" content="归档" />
   </head>
   <body>
     <div id="app" class="main">
@@ -34,7 +40,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://woj12345.github.io">
-        <img src="https://woj12345.github.io/images/avatar.png?v=1595674529421" class="site-logo">
+        <img src="https://woj12345.github.io/images/avatar.png?v=1595674780737" class="site-logo">
         <h1 class="site-title">Wuhu Airlines</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -44,7 +50,7 @@
     <div>
       
         
-          <a href="https://woj12345.github.io/post/si-xiang-shi-zhe-xue-shi-guan-nian-shi" class="site-nav">
+          <a href="https://woj12345.github.io/archives" class="site-nav">
             归档
           </a>
         
@@ -52,12 +58,6 @@
         
           <a href="https://woj12345.github.io/post/yi-ge-bi-feng-gang" class="site-nav">
             关于
-          </a>
-        
-      
-        
-          <a href="https://woj12345.github.io" class="site-nav">
-            生活
           </a>
         
       
@@ -109,6 +109,14 @@
 
             </div>
             
+              <div class="tag-container">
+                
+                  <a href="https://woj12345.github.io/tag/GZHGCmNzF/" class="tag">
+                    归档
+                  </a>
+                
+              </div>
+            
             
               <div class="next-post">
                 <div class="next">下一篇</div>
@@ -120,6 +128,12 @@
               </div>
             
 
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
             
 
           </div>
@@ -143,6 +157,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
