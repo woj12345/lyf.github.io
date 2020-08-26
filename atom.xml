@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://woj12345.github.io</id>
     <title>Wuhu Airlines</title>
-    <updated>2020-08-25T12:37:30.282Z</updated>
+    <updated>2020-08-26T11:44:59.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://woj12345.github.io"/>
     <link rel="self" href="https://woj12345.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://woj12345.github.io/images/avatar.png</logo>
     <icon>https://woj12345.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Wuhu Airlines</rights>
+    <entry>
+        <title type="html"><![CDATA[被压抑的现代性]]></title>
+        <id>https://woj12345.github.io/post/bei-ya-yi-de-xian-dai-xing/</id>
+        <link href="https://woj12345.github.io/post/bei-ya-yi-de-xian-dai-xing/">
+        </link>
+        <updated>2020-08-25T14:40:00.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>“众声喧哗“的图景</strong><br>
+晚清小说缺乏<strong>杰作</strong>，且多遭启蒙人士批评。<br>
+晚清小说不是<strong>文以载道的工具</strong>，而是幻想驰神的空中楼阁。<br>
+晚清小说创作并不<strong>严肃</strong>，写作者匆匆付梓，也不乏半途而废。<br>
+晚清小说往往能对社会现实进行<strong>渲染与夸张</strong>，从而达到<strong>揭露与批判</strong>的目的。<br>
+晚清小说一反当时西化的潮流，依然执着于<strong>传统</strong>的形式。</p>
+<p>晚清小说被压抑的原因<br>
+1.晚明-清中叶是古典小说的巅峰期，而新文化运动以后则被认为是另一个伟大的高峰，晚清小说的地位在两座高峰之间因此显得尴尬。<br>
+2.晚清正值“三千年未有之大变局”，虽然晚清小说触及社会，但被认为是缺乏深度的眼光和格局，更无引导社会风潮的影响力。<br>
+3.由于晚清小说对古典小说的承袭，被认为对中国现代小说的形成几无贡献。在当时，西化的小说创作技法被认为是先进且一流的。</p>
+<p>关键的问题在于：现代小说=西化且反传统的小说？这是五四流传下来的标准。如果五四文学意味着现代性的方向，那么晚清小说则必然是属于前现代（pre-modern）的产物，甚至被划入古典小说的旧传统中。至少在这个时期，小说界对“现代”的追求还未呈现出自觉且近乎于狂热的姿态。</p>
+<p>在传统的文学史中，五四文学无疑是现代性文学的标杆，而在五四之前的文学（诸如晚清小说）随之就被完全地弃置现代的门外。以王德威为代表越来越多的学人发现，五四似乎没有那么”现代“，而晚清也没有那么不”现代“。当五四的权威性地位逐渐消解之后，晚清小说的众声喧哗相比于五四的“感时忧国”，似乎别有一番“现代性”的景观。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“二十世纪中国文学”]]></title>
         <id>https://woj12345.github.io/post/er-shi-shi-ji-zhong-guo-wen-xue/</id>
